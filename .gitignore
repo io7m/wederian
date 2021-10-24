@@ -1,0 +1,5 @@
+*.bck
+*.kicad_pcb-bak
+*.sch-bak
+fp-info-cache
+wederian-backups

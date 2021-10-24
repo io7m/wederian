@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "wederian")(type "KiCad")(uri "${KIPRJMOD}/wederian.pretty")(options "")(descr ""))
+  (lib (name "EA_Display")(type "KiCad")(uri "${KIPRJMOD}/EA_Display.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "wederian_customs")(type "KiCad")(uri "${KIPRJMOD}/wederian_customs.kicad_sym")(options "")(descr ""))
+  (lib (name "EA_Display")(type "KiCad")(uri "${KIPRJMOD}/EA_Display.kicad_sym")(options "")(descr ""))
+)

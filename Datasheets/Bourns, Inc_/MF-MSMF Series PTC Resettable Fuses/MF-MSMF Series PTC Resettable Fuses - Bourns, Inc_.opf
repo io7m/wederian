@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">616</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">912b15bf-3602-4fd4-8705-de3feef1e46c</dc:identifier>
+        <dc:title>MF-MSMF Series PTC Resettable Fuses</dc:title>
+        <dc:creator opf:file-as="Bourns, Inc." opf:role="aut">Bourns, Inc.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-13T00:47:46+00:00</dc:date>
+        <dc:description>Bourns® Multifuse® PPTC Resettable Fuses</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>Bourns® Multifuse® PPTC Resettable Fuses</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Bourns, Inc.&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-10-24T14:43:00.991668+00:00"/>
+        <meta name="calibre:title_sort" content="MF-MSMF Series PTC Resettable Fuses"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="MF-MSMF Series PTC Resettable Fuses - Bourns, Inc_.jpg"/>
+    </guide>
+</package>

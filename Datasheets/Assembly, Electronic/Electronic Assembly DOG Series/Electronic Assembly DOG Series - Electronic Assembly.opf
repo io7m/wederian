@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">608</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">52e1e690-be6c-4e7c-b865-3e45fda55647</dc:identifier>
+        <dc:title>Electronic Assembly DOG Series</dc:title>
+        <dc:creator opf:file-as="Assembly, Electronic" opf:role="aut">Electronic Assembly</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:subject>Datasheet</dc:subject>
+        <dc:subject>Display</dc:subject>
+        <dc:subject>ST7036</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Electronic Assembly&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-10-23T18:58:52.549959+00:00"/>
+        <meta name="calibre:title_sort" content="Electronic Assembly DOG Series"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Electronic Assembly DOG Series - Electronic Assembly.jpg"/>
+    </guide>
+</package>

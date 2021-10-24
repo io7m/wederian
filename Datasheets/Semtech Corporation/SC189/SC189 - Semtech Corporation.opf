@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">604</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b63e5ff5-e7a9-4d2b-8249-0ab17dfb1d91</dc:identifier>
+        <dc:title>SC189</dc:title>
+        <dc:creator opf:file-as="Semtech Corporation" opf:role="aut">Semtech Corporation</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-02T21:41:11+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:subject>Datasheet</dc:subject>
+        <dc:subject>voltage regulator</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Semtech Corporation&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-10-23T12:47:24.773375+00:00"/>
+        <meta name="calibre:title_sort" content="SC189"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="SC189 - Semtech Corporation.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">615</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a1b7357e-d018-48e8-8e75-224e9601f486</dc:identifier>
+        <dc:title>ChipGuard® MLC Series ESD Protectors</dc:title>
+        <dc:creator opf:file-as="Bourns, Inc." opf:role="aut">Bourns, Inc.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-07-22T17:55:56+00:00</dc:date>
+        <dc:description>Bourns® ChipGuard® ESD Protectors</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>Bourns® ChipGuard® ESD Protectors</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Bourns, Inc.&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-10-24T14:42:27.783835+00:00"/>
+        <meta name="calibre:title_sort" content="ChipGuard® MLC Series ESD Protectors"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="ChipGuard® MLC Series ESD Protectors - Bourns, Inc_.jpg"/>
+    </guide>
+</package>

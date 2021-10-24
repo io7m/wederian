@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">602</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ef8daf54-ee82-4d13-86c4-1c17f9ac1a43</dc:identifier>
+        <dc:title>Sensirion Humidity Sensors SHT3x Datasheet</dc:title>
+        <dc:creator opf:file-as="Sensiron" opf:role="aut">Sensiron</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:subject>Datasheet</dc:subject>
+        <dc:subject>humidity</dc:subject>
+        <dc:subject>temperature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sensiron&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-10-16T16:47:48.491345+00:00"/>
+        <meta name="calibre:title_sort" content="Sensirion Humidity Sensors SHT3x Datasheet"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Sensirion Humidity Sensors SHT3x Datasheet - Sensiron.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">612</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e171eb8d-f337-49f7-b3de-ec9e9e7fd3b9</dc:identifier>
+        <dc:title>ATS/ATS-SM Series</dc:title>
+        <dc:creator opf:file-as="CTS Corporation" opf:role="aut">CTS Corporation</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-09-29T18:48:55+00:00</dc:date>
+        <dc:description>Quartz Crystal</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>Quartz Crystal</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;CTS Corporation&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-10-24T14:38:33.567076+00:00"/>
+        <meta name="calibre:title_sort" content="ATS/ATS-SM Series"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="ATS_ATS-SM Series - CTS Corporation.jpg"/>
+    </guide>
+</package>
